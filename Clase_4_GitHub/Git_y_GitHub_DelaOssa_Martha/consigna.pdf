@@ -1,0 +1,78 @@
+Configuración Básica
+
+Configurar Nombre que salen en los commits
+	git config --global user.name "dasdo"
+
+Configurar Email
+	git config --global user.email dasdo1@gmail.com
+
+Marco de colores para los comando
+	git config --global color.ui true
+
+Iniciando repositorio
+
+Iniciamos GIT en la carpeta donde esta el proyecto
+	git init
+
+Clonamos el repositorio de github o bitbucket
+	git clone <url>
+
+Creacion de una nueva rama
+    git branch Delaossa_Martha
+
+Cambiar a una nueva rama
+$ git checkout Delaossa_Martha
+
+
+Añadimos todos los archivos para el commit
+	git add .
+
+Hacemos el primer commit
+	git commit -m "Texto que identifique por que se hizo el commit"
+
+subimos al repositorio
+	git push origin master
+
+GIT CLONE
+
+Clonamos el repositorio de githubt
+	git clone <url>
+
+
+
+GIT ADD
+
+Añadimos todos los archivos para el commit
+	git add .
+
+
+Añadimos todos los archivos con la extensión especificada
+	git add *.txt
+
+Añadimos todos los archivos dentro de un directorio y de una extensión especifica
+	git add docs/*.txt
+
+Añadimos todos los archivos dentro de un directorios
+	git add docs/
+
+GIT COMMIT
+
+Cargar en el HEAD los cambios realizados
+	git commit -m "Texto que identifique por que se hizo el commit"
+
+GIT PUSH
+
+Subimos al repositorio
+	git push <origien> <branch>
+
+Subimos un tag
+	git push --tags
+
+GIT LOG
+
+Muestra los logs de los commits
+	git log
+
+Muestras los cambios en los commits
+	git log --oneline --stat
+
