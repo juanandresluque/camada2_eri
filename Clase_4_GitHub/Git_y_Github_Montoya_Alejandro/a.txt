@@ -1,0 +1,3 @@
+Fue creado por Linus Torvald
+Linus Torvald buscaba un sistema distribuido que pudiera usar de forma semenjante a Bitkeeper, 
+pero ninguno de los sistemas bajo sotfware libre disponibles cumplia sus requerimientos.
