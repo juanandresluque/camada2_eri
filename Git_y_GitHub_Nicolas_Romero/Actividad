@@ -1,0 +1,14 @@
+¿Quien inventó el sistema de control de versiones git y porque?
+Originalmente, la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto. Como el propio Linus Torvalds explica, BitKeeper suponí­a un gran paso adelante comparado con otros SCMs como CVS y Subversion y, sin duda, inspiró muchos de los conceptos en los que se basa git (especialmente el ser un sistema distribuido).
+Tras probar muchas de las soluciones existentes y descubrir que ninguna cumplí­a con sus requisitos, Torvalds decidió diseñar e implementar su propio sistema de control de versiones. Tan sólo un dí­a después ya habí­a desarrollado las bases de git para poder auto-gestionar el propio código de git en git y, una semana después, ya tení­a una primera versión.
+
+10 años después, git es el sistema de control de versiones más utilizado del mundo. Aunque originalmente considerado como un software difícil de utilizar (por que como Torvalds reconoce, era difícil) hoy en día es mucho más amigable y es utilizado a diario por un sinfín de desarrolladores, proyectos y empresas en todo el mundo. Git está detrás de sitios tan populares e imprescindibles para la comunidad open-source como Github y Bitbucket, y se utiliza, por ejemplo, como herramienta de despliegue en Heroku. Además, proyectos como GitLab proporcionan una manera sencilla de tener un servidor propio para alojar proyectos con git.
+
+
+¿A quien pertenece actualmente git y por qué?
+
+Microsoft ha comprado GitHub según Bloomberg. El mayor repositorio de código del mundo es punto de encuentro para millones de desarrolladores, y esa es precisamente la clave. Con el control de GitHub, Microsoft se hace también con la comunidad de desarrollo más nutrida del planeta.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades. En este libro vamos a utilizar Git desde la línea de comandos. La línea de comandos es el único lugar en donde puedes ejecutar todos los comandos de Git - la mayoría de interfaces gráficas de usuario solo implementan una parte de las características de Git por motivos de simplicidad. Si tú sabes cómo realizar algo desde la línea de comandos, seguramente serás capaz de averiguar cómo hacer lo mismo desde una interfaz gráfica. Sin embargo, la relación opuesta no es necesariamente cierta. Así mismo, la decisión de qué cliente gráfico utilizar depende totalmente de tu gusto, pero todos los usuarios tendrán las herramientas de línea de comandos instaladas y disponibles
