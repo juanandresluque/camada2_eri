@@ -1,0 +1,14 @@
+DESCRIBAN CON SUS PALABRAS LO QUE ACABAN DE HACER:
+- Verificar el acceso a internet
+- Instalar git
+- Clonar el respositorio de la mochila
+
+DESCRIBIR PARA QUE SIRVE APT-GET
+- Sirve para instalar paquetes, programas, softwares, aplicaciones.
+
+DESCRIBIR PARA QUE SIRVE SU
+- Sirve para loguearte como superusuario (sería como ejecutar como administrador de windows)
+
+¿LES RESULTÓ FAMILIAR ESTA FORMA DE CONECTARSE A UN EQUIPO?
+- Si, porque ya veníamos utilizando los mismos comandos en wondows.
+
