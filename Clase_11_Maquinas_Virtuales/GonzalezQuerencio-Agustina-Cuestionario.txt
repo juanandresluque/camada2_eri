@@ -1,0 +1,8 @@
+En principio iniciamos la maquina virtual que nos pide usuario y contraseña, utilizamos ping -c 2 más la url de digital house para comprobar la conexión enviando dos paquetes que fueron respondidos por el servidor. 
+Nos posicionamos en el usuario root para instalar git (controlador de versiones): apt-get install git; una vez instalado corroboramos con git --version  y clonamos el repositorio de nuestra camada. 
+Por último ingresamos a la carpeta "maquina virtual" con el comando cd y creamos y editamos este archivo con nano.   
+
+apt-get: herramienta para gestión de paquetes desde la linea de comandos (ejemplos: install,upgrade,update, remove)
+su: cambiar de usuario sin necesidad de cerrar la sesión(ejemplo obtener el permiso del usuario root para  instalar determinado programa)
+Sí, porque uso linux habitualmente aunque la interfaz gráfica es mucho más amigable.  
+
