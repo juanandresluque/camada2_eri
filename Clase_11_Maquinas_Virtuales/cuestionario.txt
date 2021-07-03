@@ -1,0 +1,15 @@
+Respuesta 1
+instalar un programa por consola (git)
+Clonar un repositorio
+Crear este archivo
+
+Respuesta 2
+El comando apt-get es un manejador de paquetes que nos permite instalar programas.
+
+Respuesta 3
+El comando su sirve para cambiar a modo root.
+
+Respuesta 4
+No para nada. 
+
+
