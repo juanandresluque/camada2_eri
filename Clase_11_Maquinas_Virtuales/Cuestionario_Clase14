@@ -1,0 +1,15 @@
+1.Iniciamos instalando el Git desde la maquina virtual sin interfaz grafica y clonamos solo la rama 
+personal de esta manera podemos subir el ejercicio en nuestra rama unicamente y no abrir la rama 
+main ni las demas ramas creadas.
+
+Creamos este archivo.
+
+2.apt-get nos sirve para instalar aplicativos desde otras fuentes directamente sobre la maquina
+virtual.
+
+3.el comando su sirve para cambiar al usuario que tiene permisos de superusuario o root en 
+nuestra maquina virtual
+
+4.Se asemeja un poco en el momento de clonar sin embargo usamos un comando que fuera mas adecuado
+en este caso, de resto los demas comandos funcionaban de la misma manera (ls, ls -R,...)
+El hecho de no tener interfaz hace que todo sea un poco mas confuso pero mas rapido.
