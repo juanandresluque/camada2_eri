@@ -1,0 +1,4 @@
+1.Iniciamos maquina virtual, se realizó la conexión, se realizó la validación de conexión a internet para luego descargar e instalar git. Luego se clono la rama personal para luego desarrollar la cnsigna. Es decir se simulo un entorno con soporte grafico, en una maquina sin entorno grafico.
+2. apt-get sirve para instalar programas en linux y/o debian, borrar, actualizar los repositorios y actualizar el sistema desde la línea de comandos.
+3. su es un comando que nos permite ingresar al super-usuario el cual tiene permisos especiales y/o ilimitados.
+4. No tan familiar, ya que no estamos acostumbrados a este tipo de terminales; sino mas bien a la interfaz gr{afica. 
