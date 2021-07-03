@@ -1,0 +1,8 @@
+Para llevar a cabo el proceso de instalacion de git en debian, lo primero que hicimos fue verificar el acceso a internet.
+
+Hicimos uso de apt-get para instalar los paquetes de git.
+
+Hicimos uso de"su" para lograr loguearnos como superusuario.
+
+Tiene muchas caracteristicas similares a las que ya habiamos usado 
+en la terminal de git bash.
