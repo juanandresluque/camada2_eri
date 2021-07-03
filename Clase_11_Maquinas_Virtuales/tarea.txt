@@ -1,0 +1,7 @@
+Lo que acabo de hacer es inicializar la maquina virtual, acceder a mi usuario, acceder al super usuario que es el usuario administrador, instale git, clone el repo completo de la camada 2, me cambie a mi rama y cree el archivo.
+
+apt-get sirve para instalar paquetes o programas en nuestro computador, siempre y cuando estos se encuentren dentro de la lista de programas instalables.
+
+su sirve para acceder en la terminal como super usuario o el usuario administrador.
+
+No es muy familiar, pero me voy acostumbrando a medida que avanzamos en el curso.
