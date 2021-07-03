@@ -1,0 +1,14 @@
+Verificamos el acceso a internet e instalamos Git.
+
+Clonamos el repositorio de la camada.
+
+Cambiamos a nuestra rama.
+
+Ingresamos a la carpeta de la clase Máquinas virtuales y creamos el archivo tareas.txt para llenar éste cuestionario.
+
+
+"agt-get"  nos sirve para instalar programas.
+
+"su" nos sirve para cambiar de usuario a superusuario.
+
+ Nos resultó familiar el uso de comandos gracias al uso previo de la terminal git.
