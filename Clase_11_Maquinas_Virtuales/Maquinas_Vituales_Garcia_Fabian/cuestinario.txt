@@ -1,0 +1,6 @@
+1. Se instala el paquete de git para linux con usuario ROOT o super usuario.
+2. apt-get Sirve para inicializar el gestor de paquetes acompañado de install el cual 
+instala el nombre del paquete o programa git.
+3. SU es un comando para pasar a Super Usuario y tener los permisos de administrador del sistema
+4. Es parecido a manejar gitbash o la terminal VScode, los comandos son los mismos, excepto por 
+el nivel de los usuarios como root y pass 
