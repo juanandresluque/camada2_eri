@@ -1,0 +1,19 @@
+1. Describan con sus palabras que acaban de hacer
+
+Revisamos la conexion a interneet mediante el comando "ping".
+Accedimos al usuario root mediante el coando "su root".
+Instalamos GIT con el comando "apt-git install". 
+Se clono el repositorio con "git clone".
+Accedimos a nuestra rama con "git checkout".
+Creamos este archivo dentra de la carpeta correspondiente mediante comando touch y lo editamos con el comando nano.
+
+2. Describir para que sirve "apt-get"
+Es el comando que se usa para administrar los paquetes en el S.O.
+
+3. Describir para que sire su
+
+Sirve para entrar al usuario root. 
+
+4. Les resulto familiar esta forma de conectarse a un euqipo. 
+Si. 
+
