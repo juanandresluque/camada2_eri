@@ -1,0 +1,5 @@
+1: Descripción: Se instaló el paquete linux con usuario root o superusuario
+2 : apt-get sirve para inicializar el gestor de paquetes y con install se instala el paquete git
+3: es un comando para pasar a super usuario y tener permisos de administrador de sistema
+4:  Fue familiar con el manejo de la terminal git bash, los comandos son los mismos, excepto por el nivel de los usuarios. y pues pide usuario y contraseña
+
