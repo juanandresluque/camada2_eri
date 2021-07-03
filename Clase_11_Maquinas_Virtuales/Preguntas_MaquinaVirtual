@@ -1,0 +1,28 @@
+Describir el proceso:
+
+1. Se verifica que la maquina virtual este conectada a internet por medio del comando:
+	ping -c 2 www.digitalhouse.com.ar
+2. Nos ubicamos en el usuario root con el comando: su root
+   Se realiza la intalacion de git con el comando: apt-get install git
+3. Se verifica la version de git : git --version
+4. Se realiza la clonacion del repositorio con el comando: git clone https://github.com/Erikatovar/camada2_eri.git
+5. Nos ubicamos en nuestra rama y creamos este archivo.
+
+Describir para qué sirve "apt-get"
+
+Es una herramienta para la gestion de paquetes para la instalacion, actualización 
+o eliminación de programas.
+
+Para que sirve "su" 
+
+Para ejecutar programas o comandos como otro usuario, si no se especifican parametros el
+intentara ejecutarlo como usuario raiz.
+
+Resulto familiar esta forma de conectarse?
+
+
+1. Si, es muy similar a git bash.
+2. La interfaz grafica es de mucho apoyo
+3. La cosola es muy monocromatica.
+
+
